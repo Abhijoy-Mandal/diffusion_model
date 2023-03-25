@@ -1,0 +1,5 @@
+.idea
+data
+Data
+__pycache__
+model.pt
